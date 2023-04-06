@@ -36,6 +36,6 @@ inView('#countUp').on('enter', function() {
 });
 
 // window.open("https://amzn.to/3jujImr","_self");
-// window.open("https://www.sarthakj.me/#community", "_blank");
+// window.open("https://abhi3566.github.io/#community", "_blank");
 
-// This website is made by Sarthak Jain
+// This website is made by Abhishek Kashyap

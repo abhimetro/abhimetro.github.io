@@ -6,9 +6,9 @@ console.log(`/*
 * 
 * Oh hello there, Mr. Hacker !! , so you want to see some code? 
 * Sure thing,
-* Drop an email at dev@sarthakj.me
+* Drop an email at dev@Abhishekj.me
 
-~ Made by Sarthak Jain
+~ Made by Abhishek Kashyap
 *
 * 
 */
@@ -148,7 +148,7 @@ function ExpandShrink() {
     moreText.style.display = "inline";
 
     // window.open("https://amzn.to/3jujImr","_self");
-    // window.open("https://www.sarthakj.me/#community", "_blank");
+    // window.open("https://abhi3566.github.io/#community", "_blank");
   }
 }
 
@@ -157,9 +157,9 @@ function ExpandShrink() {
 
 
 function newRedirect() {
-  if (window.location.href == 'https://www.sarthakj.me/github') {
-    window.location.href = "https://github.com/sarthak-1998";
+  if (window.location.href == 'https://abhi3566.github.io/github') {
+    window.location.href = "https://github.com/Abhishek-1998";
   }
 }
 
-// This website is made by Sarthak Jain
+// This website is made by Abhishek Kashyap

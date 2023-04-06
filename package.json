@@ -1,5 +1,5 @@
 {
-  "name": "sarthak_jain_portfolio",
+  "name": "Abhishek_Kashyap_portfolio",
   "version": "1.4.5",
   "description": "My personal portfolio and resume webpage.",
   "main": "/src/main.js",
@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sarthak-1998/sarthak-1998.github.io"
+    "url": "git+https://github.com/Abhishek-1998/Abhishek-1998.github.io"
   },
-  "author": "Sarthak Jain (SARK)",
+  "author": "Abhishek Kashyap (SARK)",
   "license": "MIT",
   "dependencies": {
     "hosted-git-info": ">=2.8.9",
