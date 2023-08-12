@@ -1,4 +1,4 @@
-# Interactive Resume Website - **https://Abhishekj.me**
+# Interactive Resume Website - **https://abhi3566.github.io**
 
 > Mobile responsive online portfolio showcasing my work experience, education, projects and achievements along with mailing service and personal payments page.  Alternate Link -   https://abhi3566.github.io/
 
@@ -10,7 +10,7 @@ Also you can try my custom 404 page - https://abhi3566.github.io/404
   
 
   
-   <a href="https://github.com/Abhishek-1998/">
+   <a href="https://github.com/abhi3566/">
     <img src="https://img.shields.io/github/followers/Abhishek-1998?label=Follow%20Abhishek-1998&style=social"></img>
   </a>
   
@@ -24,8 +24,8 @@ Also you can try my custom 404 page - https://abhi3566.github.io/404
               </img>
               </a>
 
-  <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F&ref_src=twsrc%5Etfw&region=follow_link&screen_name=sarcastic_sark&tw_p=followbutton">
-                <img style="padding-right: 10px;padding-left: 10px;" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sarcastic_sark?style=social">
+  <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F&ref_src=twsrc%5Etfw&region=follow_link&screen_name=abhi3566&tw_p=followbutton">
+                <img style="padding-right: 10px;padding-left: 10px;" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/abhi3566?style=social">
               </img>
               </a>
 </p >
@@ -55,8 +55,8 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone https://github.com/Abhishek-1998/Abhishek-1998.github.io` this repository
-* `cd Abhishek-1998.github.io`
+* `git clone https://github.com/abhi3566/abhi3566.github.io` this repository
+* `cd abhi3566.github.io`
 * `npm install`
 
 
@@ -118,16 +118,16 @@ You will need the following things properly installed on your computer.
 
  <p align = "centre"> 
 
-   <a href="https://github.com/Abhishek-1998/Abhishek-1998.github.io/fork">
-    <img src="https://img.shields.io/github/forks/Abhishek-1998/Abhishek-1998.github.io?label=Fork&style=social"></img>
+   <a href="https://github.com/abhi3566/abhi3566.github.io/fork">
+    <img src="https://img.shields.io/github/forks/abhi3566/abhi3566.github.io?label=Fork&style=social"></img>
   </a>
 
 
-  <a href="https://github.com/Abhishek-1998/Abhishek-1998.github.io/">
-    <img src="https://img.shields.io/github/stars/Abhishek-1998/Abhishek-1998.github.io?style=social"></img>
+  <a href="https://github.com/abhi3566/abhi3566.github.io/">
+    <img src="https://img.shields.io/github/stars/abhi3566/abhi3566.github.io?style=social"></img>
   </a>
  
- Developed with ❤️ by <a href="https://github.com/Abhishek-1998" target="_blank">Abhishek Kashyap</a> 
+ Developed with ❤️ by <a href="https://github.com/abhi3566" target="_blank">Abhishek Kashyap</a> 
   <br>
             <strong> Copyright ©️ 2020 | All Rights Reserved </strong> 
             

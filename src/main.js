@@ -6,7 +6,7 @@ console.log(`/*
 * 
 * Oh hello there, Mr. Hacker !! , so you want to see some code? 
 * Sure thing,
-* Drop an email at dev@Abhishekj.me
+* Drop an email at dev@abhi3566@gmail.com
 
 ~ Made by Abhishek Kashyap
 *

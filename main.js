@@ -6,7 +6,7 @@ console.log(`/*
 * 
 * Oh hello there, Mr. Hacker !! , so you want to see some code? 
 * Sure thing,
-* Drop an email at dev@Abhishekj.me
+* Drop an email at abhi3566@gmail.com
 
 ~ Made by Abhishek Kashyap
 *
@@ -158,7 +158,7 @@ function ExpandShrink() {
 
 function newRedirect() {
   if (window.location.href == 'https://abhi3566.github.io/github') {
-    window.location.href = "https://github.com/Abhishek-1998";
+    window.location.href = "https://github.com/abhi3566";
   }
 }
 
