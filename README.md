@@ -1,134 +1,131 @@
-# Interactive Resume Website - **https://abhi3566.github.io**
+# Interactive Resume Website
 
-> Mobile responsive online portfolio showcasing my work experience, education, projects and achievements along with mailing service and personal payments page.  Alternate Link -   https://abhi3566.github.io/
+**Live Demo:** **[https://abhi3566.github.io](https://abhi3566.github.io)**
+<br>
+Alternate Link: [https://abhi3566.github.io/](https://abhi3566.github.io/)
 
-Also you can try my custom 404 page - https://abhi3566.github.io/404 
-
-                                                  Details of the Project
-
-<p align = "center">
-  
-
-  
-   <a href="https://github.com/abhi3566/">
+<p align="center">
+  <a href="https://github.com/abhi3566/">
     <img src="https://img.shields.io/github/followers/Abhishek-1998?label=Follow%20Abhishek-1998&style=social"></img>
   </a>
-  
-
   <a href="https://github.com/Abhishek-1998/Abhishek-1998.github.io/commits">
     <img src="https://img.shields.io/github/last-commit/Abhishek-1998/Abhishek-1998.github.io"></img>
   </a>
-
-<a href="https://www.linkedin.com/in/Abhishek-Kashyap24apr98/" rel="nofollow noreferrer">
-                <img style="padding-right: 10px;padding-left: 10px;" src="https://img.shields.io/badge/LinkedIn-Abhishek Kashyap-blue?style=social&logo=LinkedIn" alt="linkedin">
-              </img>
-              </a>
-
+  <a href="https://www.linkedin.com/in/abhishek-kashyap-dev/" rel="nofollow noreferrer">
+    <img style="padding-right: 10px;padding-left: 10px;" src="https://img.shields.io/badge/LinkedIn-Abhishek Kashyap-blue?style=social&logo=LinkedIn" alt="linkedin">
+  </img>
+  </a>
   <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F&ref_src=twsrc%5Etfw&region=follow_link&screen_name=abhi3566&tw_p=followbutton">
-                <img style="padding-right: 10px;padding-left: 10px;" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/abhi3566?style=social">
-              </img>
-              </a>
-</p >
-
-
-<p align = "center">
-<a href="https://www.payumoney.com/paybypayumoney/#/43456C05BDCB295D19CC4D8632845B0E">
-    <img src="https://img.shields.io/badge/Donate%20Now-Support-blue?style=flat"></img>
+    <img style="padding-right: 10px;padding-left: 10px;" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/abhi3566?style=social">
+  </img>
   </a>
 </p>
 
+## Overview
 
-<br/>
-<br/>
+This is a mobile-responsive personal portfolio website for Abhishek Kashyap, showcasing his work experience, education, projects, skills, and achievements. It serves as an interactive online resume.
 
-<p> ---------------------------------------------------------------------</p>
+Also features a custom 404 page: [https://abhi3566.github.io/404](https://abhi3566.github.io/404)
 
-## Steps to Use the Source-Code smoothly
+## Screenshot
 
-You will need the following things properly installed on your computer.
+A screenshot of the main page is recommended here.
+<!-- TODO: Add a compelling screenshot of the portfolio's homepage -->
 
-* [Git](https://git-scm.com/)
-* [Node.js](https://nodejs.org/) (with npm)
-* [Live server VS Code](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer/)
-* [ Web Browser (Google Chrome) ](https://google.com/chrome/)
+## Features
 
+*   Dynamic Introduction / About Me section
+*   Comprehensive Professional Work Experience
+*   Detailed Education History
+*   Showcase of Personal Projects (with links)
+*   List of Achievements and Activities
+*   Contact Information and Contact Form (via Formspree)
+*   Direct link to download Resume (PDF)
+*   Links to external articles/blogs (Medium, Coding Blocks)
+*   Responsive design for various screen sizes
+*   Custom 404 error page
+*   Social sharing buttons (ShareThis)
 
-## Installation
+## Tech Stack
 
-* `git clone https://github.com/abhi3566/abhi3566.github.io` this repository
-* `cd abhi3566.github.io`
-* `npm install`
+*   **Frontend:** HTML5, CSS3 (SASS), JavaScript
+*   **Build:** Node.js, npm scripts (e.g., for SASS compilation)
+*   **Contact Form:** [Formspree](https://formspree.io/)
+*   **Analytics:** Google Analytics
+*   **Social Sharing:** ShareThis
 
+## Getting Started
 
-## Building -  Running / Development
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
-* `npm run build` 
-* Visit your app at [http://localhost:5500](http://localhost:5500).
-* Deploy !!
+### Prerequisites
 
-<br/>
+*   [Git](https://git-scm.com/)
+*   [Node.js](https://nodejs.org/) (which includes npm)
+*   A modern web browser (e.g., Google Chrome, Firefox)
+*   A code editor (e.g., VS Code with Live Server extension for easy local viewing)
 
-<p> ---------------------------------------------------------------------</p>
+### Installation & Running Locally
 
-<p align= "center" >
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/abhi3566/abhi3566.github.io.git
+    ```
+2.  **Navigate to the project directory:**
+    ```bash
+    cd abhi3566.github.io
+    ```
+3.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
+    (This will install any dependencies listed in `package.json`, which might include SASS for compiling CSS.)
 
-## LATEX Resume -  [`PDF`](https://abhi3566.github.io/assets/Abhishek_Resume.pdf)
+4.  **Build assets (if applicable):**
+    The project may use a build script (e.g., `build.js` or an npm script in `package.json`) for tasks like SASS compilation. If a command like `npm run build` is defined for this, run it:
+    ```bash
+    npm run build
+    ```
+    This step ensures that any SASS/SCSS files are compiled into CSS.
 
-</p>
+5.  **View the website:**
+    Open the `index.html` file in your web browser. For a better development experience, use a local web server. If you're using VS Code, the "Live Server" extension is a good option:
+    *   Right-click on `index.html` in the VS Code explorer.
+    *   Select "Open with Live Server".
 
-                                                       Image of the Resume
+## View PDF Resume
 
-![Latex Resume](assets/Abhishek_Resume.jpg?raw=true "Title")
+A direct link to the PDF version of the resume is available:
+[View Résumé (PDF)](assets/Abhishek_Resume.pdf)
 
+## Credits
 
+This project was inspired by or utilizes resources from:
 
+*   **Rohan Maity** - GitHub: [RotBolt](https://github.com/RotBolt) | Project: [rotbolt.github.io](https://rotbolt.github.io/)
+*   **Angelos Chalaris** - GitHub: [Chalarangelo](https://github.com/Chalarangelo) | Project: [chalarangelo.me](https://www.chalarangelo.me/)
+*   **Icons**:
+    *   [Dave Gandy](https://www.flaticon.com/authors/dave-gandy) and [Freepik](https://www.freepik.com/) from [Flaticon](https://www.flaticon.com/)
+    *   [Cole Bemis](https://twitter.com/colebemis) from [Feather](https://feathericons.com/)
+*   **Badges**: [Shields.io](https://img.shields.io)
+*   **LaTeX Resume Template**: [Overleaf](https://www.overleaf.com/) (Used for PDF resume generation)
+*   **Contact Form**: [Formspree](https://formspree.io/)
+*   **Payments**: [PayU](https://payu.in/) (Note: A donate button/link might be present in the project)
 
-<br/>
-<br/>
-<br/>
-<br/>
+## License
 
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-  [//]: <> (This is also a comment.)
+## Author / Connect with Abhishek
 
+*   **Abhishek Kashyap**
+*   **GitHub:** [@abhi3566](https://github.com/abhi3566)
+*   **LinkedIn:** [Abhishek Kashyap](https://www.linkedin.com/in/abhishek-kashyap-dev/)
+*   **Twitter:** [@abhi3566](https://twitter.com/abhi3566)
+*   **Email:** [abhi3566@gmail.com](mailto:abhi3566@gmail.com)
 
-## Credits for the Project 
+---
 
-* Rohan Maity - GitHub - https://github.com/RotBolt  Project - https://rotbolt.github.io/
-
-* Angelos Chalaris - GitHub - https://github.com/Chalarangelo  Project - https://www.chalarangelo.me/
-
-*  Icons made by <a href="https://www.flaticon.com/authors/dave-gandy" target="_blank">Dave Gandy</a> and <a href="https://www.freepik.com/" target="_blank">Freepik</a> from <a href="https://www.flaticon.com/" target="_blank">Flaticon</a>, as well as <a href="https://twitter.com/colebemis" target="_blank">Cole Blemis</a> from <a href="https://feathericons.com/" target="_blank">Feather</a>
-           
-* Badges - https://img.shields.io
-
-* Overleaf (Latex Resume) - https://www.overleaf.com/
-
-* Formspree for form - https://formspree.io/
-
-* PayU for Payments - https://payu.in/ 
-
-* Feather Icons - https://package.elm-lang.org/packages/1602/elm-feather/1.0.2/FeatherIcons
-
-<br/>
-
-
-
-<h3>It was nice to have you here, see you around !! </h3>
-
- <p align = "centre"> 
-
-   <a href="https://github.com/abhi3566/abhi3566.github.io/fork">
-    <img src="https://img.shields.io/github/forks/abhi3566/abhi3566.github.io?label=Fork&style=social"></img>
-  </a>
-
-
-  <a href="https://github.com/abhi3566/abhi3566.github.io/">
-    <img src="https://img.shields.io/github/stars/abhi3566/abhi3566.github.io?style=social"></img>
-  </a>
- 
- Developed with ❤️ by <a href="https://github.com/abhi3566" target="_blank">Abhishek Kashyap</a> 
-  <br>
-            <strong> Copyright ©️ 2020 | All Rights Reserved </strong> 
-            
-  </p>
+Developed with ❤️ by Abhishek Kashyap
+<br>
+Copyright ©️ 2020-PRESENT | All Rights Reserved
