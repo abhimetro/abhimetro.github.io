@@ -2,7 +2,7 @@
 
 **Live Demo:** **[https://abhimetro.github.io/](https://abhimetro.github.io/)**
 <br>
-Alternate Link: [https://abhimetro.github.io//](https://abhimetro.github.io//)
+Alternate Link: [https://abhimetro.github.io/](https://abhimetro.github.io//)
 
 <p align="center">
   <a href="https://github.com/abhimetro/">
