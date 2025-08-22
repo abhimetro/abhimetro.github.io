@@ -1,11 +1,11 @@
 # Interactive Resume Website
 
-**Live Demo:** **[https://abhi3566.github.io](https://abhi3566.github.io)**
+**Live Demo:** **[https://abhimetro.github.io/](https://abhimetro.github.io/)**
 <br>
-Alternate Link: [https://abhi3566.github.io/](https://abhi3566.github.io/)
+Alternate Link: [https://abhimetro.github.io//](https://abhimetro.github.io//)
 
 <p align="center">
-  <a href="https://github.com/abhi3566/">
+  <a href="https://github.com/abhimetro/">
     <img src="https://img.shields.io/github/followers/Abhishek-1998?label=Follow%20Abhishek-1998&style=social"></img>
   </a>
   <a href="https://github.com/Abhishek-1998/Abhishek-1998.github.io/commits">
@@ -25,7 +25,7 @@ Alternate Link: [https://abhi3566.github.io/](https://abhi3566.github.io/)
 
 This is a mobile-responsive personal portfolio website for Abhishek Kashyap, showcasing his work experience, education, projects, skills, and achievements. It serves as an interactive online resume.
 
-Also features a custom 404 page: [https://abhi3566.github.io/404](https://abhi3566.github.io/404)
+Also features a custom 404 page: [https://abhimetro.github.io/404](https://abhimetro.github.io/404)
 
 ## Screenshot
 
@@ -119,7 +119,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Author / Connect with Abhishek
 
 *   **Abhishek Kashyap**
-*   **GitHub:** [@abhi3566](https://github.com/abhi3566)
+*   **GitHub:** [@abhimetro](https://abhimetro.github.io)
 *   **LinkedIn:** [Abhishek Kashyap](https://www.linkedin.com/in/abhishek-kashyap-dev/)
 *   **Twitter:** [@abhi3566](https://twitter.com/abhi3566)
 *   **Email:** [abhi3566@gmail.com](mailto:abhi3566@gmail.com)
@@ -128,4 +128,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Developed with ❤️ by Abhishek Kashyap
 <br>
-Copyright ©️ 2020-PRESENT | All Rights Reserved
+Copyright ©️ 2025-PRESENT | All Rights Reserved
